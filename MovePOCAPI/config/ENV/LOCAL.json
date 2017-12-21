@@ -1,0 +1,9 @@
+{
+    "propertiesSearch": {
+        "getHouseProperties": "https://search-propertysearch-dehelayeurldpvwdkl6erz4omy.us-west-2.es.amazonaws.com/houseproperty/_search?size=0&pretty",
+        "getSingleHouseProperties": "https://search-propertysearch-dehelayeurldpvwdkl6erz4omy.us-west-2.es.amazonaws.com/houseproperty/houseproperties/_mget"
+    },
+    "crossOriginDomain": [
+        "http://localhost:8000"
+    ]
+}
